@@ -1,0 +1,755 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>abuse_1 noun - Definition, pictures, pronunciation and usage notes | Oxford Advanced Learner&apos;s Dictionary at OxfordLearnersDictionaries.com</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="Definition of abuse_1 noun in Oxford Advanced Learner&apos;s Dictionary. Meaning, pronunciation, picture, example sentences, grammar, usage notes, synonyms and more." />
+    <meta name="keywords" content="abuse_1 noun, online dictionary, Oxford Advanced Learner&apos;s Dictionary, abuse_1 definition, define abuse_1, definition of abuse_1, abuse_1 pronunciation, pronounce abuse_1, abuse_1 meaning, abuse_1 examples, abuse_1 synonyms, picture, abuse_1 grammar" />
+        
+                      
+                                    <link rel="alternate" hreflang="en" href="http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1" />
+                                                <link rel="alternate" hreflang="en-US" href="http://www.oxfordlearnersdictionaries.com/us/definition/english/abuse_1" />
+                            <link rel="alternate" hreflang="en-MX" href="http://www.oxfordlearnersdictionaries.com/us/definition/english/abuse_1" />
+                            <link rel="alternate" hreflang="en-PH" href="http://www.oxfordlearnersdictionaries.com/us/definition/english/abuse_1" />
+                            <link rel="alternate" hreflang="en-BR" href="http://www.oxfordlearnersdictionaries.com/us/definition/english/abuse_1" />
+                            <link rel="alternate" hreflang="en-CO" href="http://www.oxfordlearnersdictionaries.com/us/definition/english/abuse_1" />
+                            <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+        <link href="http://www.oxfordlearnersdictionaries.com/external/styles/interface.css?version=1.6.5" rel="stylesheet" type="text/css" />
+    <link href="http://www.oxfordlearnersdictionaries.com/external/styles/responsive.css?version=1.6.5" rel="stylesheet" type="text/css" />
+    <link href="http://www.oxfordlearnersdictionaries.com/external/styles/oxford.css?version=1.6.5" rel="stylesheet" type="text/css" />
+    <link href="http://www.oxfordlearnersdictionaries.com/external/styles/jquery.lightbox-0.5.css?version=1.6.5" rel="stylesheet" type="text/css" />
+    <link href="http://www.oxfordlearnersdictionaries.com/external/styles/print.css?version=1.6.5" rel="stylesheet" type="text/css"  media="print" />
+    <link href="http://www.oxfordlearnersdictionaries.com/external/styles/autocomplete.css?version=1.6.5" rel="stylesheet" type="text/css" />
+            <script type='text/javascript'>
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+            var dfpSlots = {};
+            (function() {
+                var gads = document.createElement('script');
+                gads.async = true;
+                gads.type = 'text/javascript';
+                var useSSL = 'https:' == document.location.protocol;
+                gads.src = (useSSL ? 'https:' : 'http:') +'//www.googletagservices.com/tag/js/gpt.js';
+                var node = document.getElementsByTagName('script')[0];
+                node.parentNode.insertBefore(gads, node);
+            })();
+            googletag.cmd.push(function() {
+                                                                                        var mapping_topslot_a = googletag.sizeMapping()
+                                                         
+                                                            .addSize([1203, 0], [])  // hd (CSS min-width: 1220)
+                                                                                                                    .addSize([745, 0], [728, 90]) // tablet (CSS min-width: 762)
+                                                            .addSize([0, 0], [320, 50])    // mobile
+                                .build();
+                            dfpSlots["topslot_a"] = googletag.defineSlot('/70903302/topslot', [728, 90], 'ad_topslot_a')
+                                                          .defineSizeMapping(mapping_topslot_a)
+                                                                                                                        .setTargeting('old_vp', 'top')
+                                                                                                                        .setTargeting('old_hp', 'center')
+                                                                                                                    .addService(googletag.pubads());
+                                                                                                                            var mapping_topslot_b = googletag.sizeMapping()
+                                                         
+                                                            .addSize([1203, 0], [728, 90])  // hd (CSS min-width: 1220)
+                                                                                                                    .addSize([0, 0], [])    // mobile
+                                .build();
+                            dfpSlots["topslot_b"] = googletag.defineSlot('/70903302/topslot', [], 'ad_topslot_b')
+                                                          .defineSizeMapping(mapping_topslot_b)
+                                                                                                                        .setTargeting('old_vp', 'top')
+                                                                                                                        .setTargeting('old_hp', 'center')
+                                                                                                                    .addService(googletag.pubads());
+                                                                                                                            var mapping_btmslot_a = googletag.sizeMapping()
+                                                         
+                                                                                                                    .addSize([745, 0], [300, 250]) // tablet (CSS min-width: 762)
+                                                            .addSize([0, 0], [])    // mobile
+                                .build();
+                            dfpSlots["btmslot_a"] = googletag.defineSlot('/70903302/btmslot', [300, 250], 'ad_btmslot_a')
+                                                          .defineSizeMapping(mapping_btmslot_a)
+                                                                                                                        .setTargeting('old_vp', 'btm')
+                                                                                                                        .setTargeting('old_hp', 'center')
+                                                                                                                    .addService(googletag.pubads());
+                                                                                                                            var mapping_btmslot_b = googletag.sizeMapping()
+                                                         
+                                                                                                                    .addSize([745, 0], []) // tablet (CSS min-width: 762)
+                                                            .addSize([0, 0], [300, 250])    // mobile
+                                .build();
+                            dfpSlots["btmslot_b"] = googletag.defineSlot('/70903302/btmslot', [], 'ad_btmslot_b')
+                                                          .defineSizeMapping(mapping_btmslot_b)
+                                                                                                                        .setTargeting('old_vp', 'btm')
+                                                                                                                        .setTargeting('old_hp', 'center')
+                                                                                                                    .addService(googletag.pubads());
+                                                                                                                            var mapping_houseslot1_a = googletag.sizeMapping()
+                                                         
+                                                                                                                    .addSize([0, 0], [180, 150])    // mobile
+                                .build();
+                            dfpSlots["houseslot1_a"] = googletag.defineSlot('/70903302/houseslot1', [180, 150], 'ad_houseslot1_a')
+                                                          .defineSizeMapping(mapping_houseslot1_a)
+                                                                                                                        .setTargeting('old_vp', 'btm')
+                                                                                                                        .setTargeting('old_hp', 'right')
+                                                                                                                    .addService(googletag.pubads());
+                                                                                                                            var mapping_leftslot_a = googletag.sizeMapping()
+                                                         
+                                                                                                                    .addSize([745, 0], [160, 600]) // tablet (CSS min-width: 762)
+                                                            .addSize([0, 0], [])    // mobile
+                                .build();
+                            dfpSlots["leftslot_a"] = googletag.defineSlot('/70903302/leftslot', [160, 600], 'ad_leftslot_a')
+                                                          .defineSizeMapping(mapping_leftslot_a)
+                                                                                                                        .setTargeting('old_vp', 'top')
+                                                                                                                        .setTargeting('old_hp', 'left')
+                                                                                                                    .addService(googletag.pubads());
+                                                                                                                                                                            googletag.pubads().setTargeting("old_l", "en");
+                                                                                            googletag.pubads().setTargeting("old_pr", "free");
+                                                                                            googletag.pubads().setTargeting("old_pc", "dictionary");
+                                                                                            googletag.pubads().setTargeting("old_dc", "english");
+                                                                                            googletag.pubads().setTargeting("old_ei", "abuse_1");
+                                                            
+                 googletag.pubads().setCategoryExclusion('wprod');  googletag.pubads().setCategoryExclusion('scp'); 
+                googletag.pubads().enableSingleRequest();
+                googletag.pubads().collapseEmptyDivs(false);
+                googletag.enableServices();
+            });
+            function getDeviceByResolution() {
+                var res = null;
+                if (window.matchMedia("(max-width: 761px)").matches)
+                    res = "mobile";
+                else if (window.matchMedia("(min-width: 762px) and (max-width: 928px)").matches)
+                    res = "tablet";
+                else if (window.matchMedia("(min-width: 1220px)").matches)
+                    res = "hd";
+                else
+                    res = "desktop";
+                return res;
+            }
+            var curResolution = getDeviceByResolution();
+            window.onresize = function() {
+                var newResolution = getDeviceByResolution();
+                if (newResolution != curResolution) {
+                                        curResolution = newResolution;
+                    googletag.pubads().refresh();
+                }
+            };
+        </script>
+    <!--[if gte IE 7 ]>
+        <link href="http://www.oxfordlearnersdictionaries.com/external/styles/oxford-ie.css?version=1.6.5" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 9]><script type="text/javascript" src="http://www.oxfordlearnersdictionaries.com/external/scripts/matchMedia.js?version=1.6.5"></script><![endif]-->
+                    <link href="https://fonts.googleapis.com/css?family=Open+Sans:700i" rel="stylesheet" type='text/css'> 
+    <link rel="icon" type="image/x-icon" href="http://www.oxfordlearnersdictionaries.com/external/images/favicon.ico?version=1.6.5"/>
+        <script type='text/javascript'>
+        var arrayFn = [];
+        var dictCodesArr = new Array();
+                /*english
+         * OALD9
+         * free
+         * false || true*/
+            dictCodesArr["english"] = {
+                url : 'english',
+                name : 'English',
+                description : 'Search OALD',
+                                    free: true
+                            };
+                /*american_english
+         * OAAD,OALD9
+         * free
+         * false || true*/
+            dictCodesArr["american_english"] = {
+                url : 'american_english',
+                name : 'American English',
+                description : 'Search OAAD',
+                                    free: true
+                            };
+                /*practical-english-usage
+         * PEU
+         * free
+         * false || false*/
+            dictCodesArr["practical-english-usage"] = {
+                url : 'practical-english-usage',
+                name : 'Practical English Usage',
+                description : 'Search PEU Index',
+                                    free: false
+                            };
+                /*schulwoerterbuch_German-English
+         * SWB
+         * free
+         * false || false*/
+            dictCodesArr["schulwoerterbuch_German-English"] = {
+                url : 'schulwoerterbuch_German-English',
+                name : 'German-English',
+                description : 'Search Das Oxford Schulw\u00F6rterbuch',
+                                    free: false
+                            };
+                /*schulwoerterbuch_English-German
+         * SWB
+         * free
+         * false || false*/
+            dictCodesArr["schulwoerterbuch_English-German"] = {
+                url : 'schulwoerterbuch_English-German',
+                name : 'English-German',
+                description : 'Search Das Oxford Schulw\u00F6rterbuch',
+                                    free: false
+                            };
+            </script>
+
+</head>
+<body >
+    <noscript>
+        <div id="cookieLaw">We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href='http://global.oup.com/cookiepolicy/?siteid=oaadonline' target='_blank'>Find out more</a></div>
+    </noscript>
+    <div id="ox-container">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="ox-header" class="">
+    <div class="responsive_row flush-below top">
+    <div class="responsive_container responsive_display_on_smartphone">
+        <div class="menu_button"></div>
+    </div>
+    <div class="nav responsive_container main_nav">
+        <ul class="menu">
+                         <li><a  href="http://www.oxfordlearnersdictionaries.com/">Dictionaries</a></li>
+                         <li><a  href="http://www.oxfordlearnersdictionaries.com/grammar/">Grammar & usage</a></li>
+                         <li><a  href="http://www.oxfordlearnersdictionaries.com/about/">About</a></li>
+                         <li><a  href="http://www.oxfordlearnersdictionaries.com/faq/">FAQs</a></li>
+        </ul>
+        <div class="menu logout">
+            <ul>
+                                     <li><a href="http://www.oxfordlearnersdictionaries.com/account/checkCookie?preUrl=/account/login">Redeem a code</a></li>
+            <li><a class="top-toolbar-off" href="http://www.oxfordlearnersdictionaries.com/account/checkCookie?preUrl=/account/login">My account</a></li>
+            <li><a href="http://www.oxfordlearnersdictionaries.com/account/checkCookie?preUrl=/account/login">Log in</a></li>
+                        </ul>
+        </div>
+    </div>
+<a class='go-to-top responsive_display_on_smartphone' href='#wrap' title='back to top'>Back to Top</a>
+</div>
+<div class="responsive_container ">
+    <div class="old-logo-title responsive_hide_on_smartphone"><a class="old-logo-title" href="http://www.oxfordlearnersdictionaries.com/"></a></div>
+    <div class="responsive_display_on_smartphone"><a class="old-logo-title" href="http://www.oxfordlearnersdictionaries.com/"></a></div>
+    <div class="mainsearch responsive_row">
+        <form id="search-form" method="get" action="http://www.oxfordlearnersdictionaries.com/search/english/direct/">
+            <div class="dictionarySelector">    <span id="select_div">
+        <div>English</div>
+    </span>
+    <select id="dictionary-selector">                                        <option value="english">English</option>
+                                                            <option value="american_english">American English</option>
+                                                            <option value="practical-english-usage">Practical English Usage</option>
+                                                            <option value="schulwoerterbuch_German-English">German-English</option>
+                                                            <option value="schulwoerterbuch_English-German">English-German</option>
+                        </select>
+    <div class="csm">
+                                                <a data-value="english" >English</a>
+                                                            <a data-value="american_english" >American English</a>
+                                                            <a data-value="practical-english-usage" ) locked="true" >Practical English Usage</a>
+                                                            <a data-value="schulwoerterbuch_German-English" ) locked="true" >German-English</a>
+                                                            <a data-value="schulwoerterbuch_English-German" ) locked="true" >English-German</a>
+                                <div class="notch1"></div>
+        <div class="notch2"></div>
+    </div>
+</div>
+            <div class="searchfield">
+                <input type="text" id="q" name="q"
+                    class="searchfield_input"/>
+                <a id="keyboard_icon" class="oup_icons responsive_hide_on_smartphone responsive_hide_on_tablet"></a>
+                <div id="keyboard_letters"></div>
+            </div>
+            <div class="inputSuggestions" style=""></div>
+            <div id="search-btn" class="oup_icons">
+                <input type="submit" value="" />
+            </div>
+        </form>
+    </div>        <div class="responsive_hide_on_hd responsive_center_on_smartphone" id="leaderboardOthers">     
+        <div id='ad_topslot_a' class='am-default'>
+                    <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('ad_topslot_a'); });
+            </script>
+                    </div>
+    </div>
+        <div class="responsive_row">
+            <div class="responsive_entry_left">     
+        <div id='ad_leftslot_a' class='am-default'>
+                    <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('ad_leftslot_a'); });
+            </script>
+                    </div>
+    </div>
+
+                        <div class="responsive_entry_center">
+                            <div class="responsive_display_on_hd" id="leaderboardHD">     
+        <div id='ad_topslot_b' class='am-default'>
+                    <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('ad_topslot_b'); });
+            </script>
+                    </div>
+    </div>
+                <div class="responsive_entry_center_wrap">
+
+                                            <div class="entry-header">
+                            <div class="responsive_entry_center_left">
+                            
+                                                            <p class="definition-title">Definition of <em>abuse noun</em> from the Oxford Advanced Learner&apos;s Dictionary</p>
+                                                        </div>
+                            <div class="responsive_entry_center_right responsive_hide_on_smartphone share-this-entry">    <div class="social-wrap">
+        <span id="plusone-box"><g:plusone size="normal" href="http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse" count="false"></g:plusone></span>
+        <a href="http://www.facebook.com/sharer.php?u=http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse&t=abuse_1 noun - Definition, pictures, pronunciation and usage notes | Oxford Advanced Learner&apos;s Dictionary at OxfordLearnersDictionaries.com" target="_blank" class="facebook-btn" alt="share this entry on Facebook" title="share this entry on Facebook" onclick="_gaq.push(['_trackEvent', 'share_this_entry', 'facebook', 'http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse', null, true]);"></a>
+        <a href="http://twitter.com/home?status=Add+This:+http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse" target="_blank" class="twitter-btn" alt="tweet this entry" title="tweet this entry" onclick="_gaq.push(['_trackEvent', 'share_this_entry', 'twitter', 'http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse', null, true]);"></a>
+        <a href="http://www.stumbleupon.com/submit?url=http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse" target="_blank" class="stumbleupon-btn" alt="share this entry on StumbleUpon" title="share this entry on StumbleUpon" onclick="_gaq.push(['_trackEvent', 'share_this_entry', 'stumbleupon', 'http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse', null, true]);"></a>
+        <a href="http://www.diigo.com/post?url=http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse" target="_blank" class="diigo-btn" alt="share this entry on Diigo" title="share this entry on Diigo" onclick="_gaq.push(['_trackEvent', 'share_this_entry', 'diigo', 'http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse', null, true]);"></a>
+        <a href="mailto:?subject=abuse_1 noun - Definition, pictures, pronunciation and usage notes | Oxford Advanced Learner&apos;s Dictionary at OxfordLearnersDictionaries.com&body=http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse" alt="email this entry" title="email this entry" class="email-btn"></a>
+    </div>
+</div>
+                        </div>
+                    
+                    <div id="ox-wrapper" class="responsive_entry_center_left">
+                        <div id="main_column" class="responsive_row">
+                            <div id="main-container" class="main-container">
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+<script language="javascript" type="text/javascript">
+    var contextId= (location.hash != "" ? location.hash : null);
+    // global variable that contains the path to external files
+    // and used by the lightbox script 
+    var lightboxImageLoading = "http://www.oxfordlearnersdictionaries.com/external/images/lightbox-ico-loading.gif?version=1.6.5";
+    var lightboxImageBtnPrev = "http://www.oxfordlearnersdictionaries.com/external/images/lightbox-btn-prev.gif?version=1.6.5";
+    var lightboxImageBtnNext = "http://www.oxfordlearnersdictionaries.com/external/images/lightbox-btn-next.gif?version=1.6.5";
+    var lightboxImageBtnClose = "http://www.oxfordlearnersdictionaries.com/external/images/lightbox-btn-close.gif?version=1.6.5";
+    var lightboxImageBlank = "http://www.oxfordlearnersdictionaries.com/external/images/lightbox-blank.gif?version=1.6.5";
+    if (document.readyState != 'loading'){
+        initEntry('See more', 'See less');
+    } else if (document.addEventListener) {
+      document.addEventListener('DOMContentLoaded', function(){initEntry('See more', 'See less');});
+    } else {
+      document.attachEvent('onreadystatechange', function() {
+        if (document.readyState != 'loading')
+            initEntry('See more', 'See less');
+      });
+    }
+</script>
+    <div id="entryContent"><div class="entry" sum="790" id="abuse_1" subentrynum="1" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24b2"><ol class="h-g" id="abuse_1__1"><div class="top-container"><div class="top-g" id="abuse_1__2"> 
+        <div class="webtop-g">
+								<a class="oxford3000" href="http://www.oxfordlearnersdictionaries.com/wordlist/english/oxford3000/"> </a><span class="z"> </span><h2 class="h">abuse</h2><span class="z"> </span><span class="pos">noun</span></div> <span class="pos-g" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24b4" id="abuse_1__9"><span class="pos" id="abuse_1__10">noun</span></span> <div class="pron-gs ei-g" eid="abuse_1__11" careful="y"><span class="pron-g" geo="br" id="abuse_1__12" trans="ald8"><span class="prefix">BrE</span> <span class="phon" eid="abuse_1__13"><span class="bre">BrE</span><span class="separator">/</span><span class="wrap">/</span>əˈbjuːs<span class="wrap">/</span><span class="separator">/</span></span><div class="sound audio_play_button pron-uk icon-audio" data-src-mp3="http://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abu/abuse/abuse__gb_1.mp3" data-src-ogg="http://www.oxfordlearnersdictionaries.com/media/english/uk_pron_ogg/a/abu/abuse/abuse__gb_1.ogg" title=" pronunciation English" style="cursor: pointer" valign="top"> </div></span><span class="sep">;</span> <span class="pron-g" trans="ald8" id="abuse_1__14" geo="n_am"><span class="prefix">NAmE</span> <span class="phon" eid="abuse_1__15"><span class="name">NAmE</span><span class="separator">/</span><span class="wrap">/</span>əˈbjuːs<span class="wrap">/</span><span class="separator">/</span></span><div class="sound audio_play_button pron-us icon-audio" data-src-mp3="http://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abu/abuse/abuse__us_1.mp3" data-src-ogg="http://www.oxfordlearnersdictionaries.com/media/english/us_pron_ogg/a/abu/abuse/abuse__us_1.ogg" title=" pronunciation American" style="cursor: pointer" valign="top"> </div></span></div><span class="res-g" psg="top_topics" hide="y"> <span class="xr-gs"><a class="Ref" href="http://www.oxfordlearnersdictionaries.com/topic/types_of_crime/abuse_1" title="Topic Types of crime"><span class="xr-g" resource="topicdict"><span class="xh">Types of crime</span></span></a><span class="sep">,</span> <a class="Ref" href="http://www.oxfordlearnersdictionaries.com/topic/anger/abuse_2" title="Topic Anger"><span class="xr-g" resource="topicdict"><span class="xh">Anger</span></span></a></span></span><div class="clear"> </div>
+                                                <div class="btn icon-left-colapse wl-add"><a id="add-to-mywordlist-link" href="http://www.oxfordlearnersdictionaries.com/mywordlist/">Add to my wordlist</a></div><a class="responsive_display_inline_on_smartphone link-right" href="#relatedentries">jump to other results</a><br/></div></div><span class="oldsubentry" id="abuse_1__16" ox3000="y" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24b2" oldentryeid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24a2"><span class="sn-gs" id="abuse_1__17"><li class="sn-g" ox3000="y" id="abuse_1__18"><span class="num">1 </span><span class="sym_first">
+                                <a class="oxford3000" href="http://www.oxfordlearnersdictionaries.com/wordlist/english/oxford3000/"> </a></span><span class="gram-g" id="abuse_1__19"><span class="wrap">[</span><span class="gram" id="abuse_1__20" gram="u">uncountable</span><span class="sep">,</span> <span class="gram" id="abuse_1__21" gram="sing" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24c1">singular</span><span class="wrap">]</span></span> <span class="def" id="abuse_1__22" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24c2">the use of something in a way that is wrong or harmful</span> <span class="xr-gs" id="abuse_1__23" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24c3"><span class="prefix">synonym</span> <a class="Ref" href="http://www.oxfordlearnersdictionaries.com/definition/english/misuse_1" title="misuse definition"><span class="xr-g" id="abuse_1__24"><span class="xh" id="abuse_1__25">misuse</span></span></a></span><span class="x-gs" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24c6" id="abuse_1__26"><span class="x-g" id="abuse_1__27"> <span class="x" id="abuse_1__28"><span class="cl"><strong>alcohol/drug/solvent abuse</strong></span></span></span><span class="x-g" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24ca" id="abuse_1__30"> <span class="rx-g" id="abuse_1__31" source="ald9" resource="recx"><span class="x" id="abuse_1__32">The system of paying cash bonuses is <span class="cl"><strong>open to abuse</strong></span> <span class="gl" id="abuse_1__34" dpsid="u4cdebea65f7df6b4.d396464.14cafc14f9d.-6a03"><span class="wrap">(</span><span class="prefix">=</span> might be used in the wrong way<span class="wrap">)</span></span>.</span></span></span><span class="x-g" id="abuse_1__37" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24cc"> <span class="cf" id="abuse_1__38"><span class="exp" id="abuse_1__39">abuse</span> of something</span> <span class="rx-g" dpsresource="RECX" dpssubref="u4cdebea65f7df6b4.743b4102.13cba85ad41.7461" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24cf" resource="recx" dpsref="u4cdebea65f7df6b4.743b4102.13cba85ad41.7444" id="abuse_1__40" source="ald9"><span class="x" id="abuse_1__41">He was arrested on charges of corruption and <span class="cl"><strong>abuse of power</strong></span>.</span></span></span><span class="x-g" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24d0" id="abuse_1__45"> <span class="rx-g" source="ald9" resource="recx" id="abuse_1__46"><span class="x" id="abuse_1__47">What she did was an abuse of her position as manager.</span></span></span></span><span class="collapse" title="Wordfinder"><span class="unbox" unbox="wordfinder" id="abuse_1__50"> <span class="heading">Wordfinder</span><span class="body" id="abuse_1__51"><span class="p" id="abuse_1__52"><span class="xr-gs" id="abuse_1__53"><a class="Ref" href="http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1" title="abuse definition"><span class="xr-g" id="abuse_1__54"><span class="xh" id="abuse_1__55">abuse</span></span></a><span class="sep">,</span> <a class="Ref" href="http://www.oxfordlearnersdictionaries.com/definition/english/addict" title="addict definition"><span class="xr-g" id="abuse_1__56" dpsresource="ALD9" dpssubref="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.4c99" dpsref="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.4c86"><span class="xh" id="abuse_1__57">addict</span></span></a><span class="sep">,</span> <a class="Ref" href="http://www.oxfordlearnersdictionaries.com/definition/english/deal_1" title="deal definition"><span class="xr-g" id="abuse_1__58" dpsref="u4cdebea65f7df6b4.743b4102.13cbabc708f.-25f0" dpssubref="u4cdebea65f7df6b4.743b4102.13cbabc708f.-25a5" dpsresource="ALD9"><span class="xh" id="abuse_1__59">deal</span></span></a><span class="sep">,</span> <a class="Ref" href="http://www.oxfordlearnersdictionaries.com/definition/english/dependence" title="dependence definition"><span class="xr-g" dpssubref="u4cdebea65f7df6b4.743b4102.13cbabc708f.2976" dpsref="u4cdebea65f7df6b4.743b4102.13cbabc708f.2956" dpsresource="ALD9" id="abuse_1__60"><span class="xh" id="abuse_1__61">dependence</span></span></a><span class="sep">,</span> <a class="Ref" href="http://www.oxfordlearnersdictionaries.com/definition/english/detoxification" title="detoxification definition"><span class="xr-g" dpsresource="ALD9" dpsref="u4cdebea65f7df6b4.743b4102.13cbabc708f.4b79" dpssubref="u4cdebea65f7df6b4.743b4102.13cbabc708f.4b79" id="abuse_1__62"><span class="xh" id="abuse_1__63">detoxification</span></span></a><span class="sep">,</span> <a class="Ref" href="http://www.oxfordlearnersdictionaries.com/definition/english/drug_1" title="drug definition"><span class="xr-g" dpsresource="ALD9" dpssubref="u4cdebea65f7df6b4.743b4102.13cbabce420.24a3" dpsref="u4cdebea65f7df6b4.743b4102.13cbabce420.2484" id="abuse_1__64"><span class="xh" id="abuse_1__65">drug</span></span></a><span class="sep">,</span> <a class="Ref" href="http://www.oxfordlearnersdictionaries.com/definition/english/hallucinate" title="hallucinate definition"><span class="xr-g" id="abuse_1__66" dpsresource="ALD9" dpsref="u4cdebea65f7df6b4.743b4102.13cbabeaa27.-6b35" dpssubref="u4cdebea65f7df6b4.743b4102.13cbabeaa27.-6b35"><span class="xh" id="abuse_1__67">hallucinate</span></span></a><span class="sep">,</span> <a class="Ref" href="http://www.oxfordlearnersdictionaries.com/definition/english/overdose_1" title="overdose definition"><span class="xr-g" dpssubref="u4cdebea65f7df6b4.743b4102.13cbac16e46.4715" dpsref="u4cdebea65f7df6b4.743b4102.13cbac16e46.4715" dpsresource="ALD9" id="abuse_1__68"><span class="xh" id="abuse_1__69">overdose</span></span></a><span class="sep">,</span> <a class="Ref" href="http://www.oxfordlearnersdictionaries.com/definition/english/rehab" title="rehab definition"><span class="xr-g" id="abuse_1__70" dpssubref="u4cdebea65f7df6b4.743b4102.13cbac3027d.3e92" dpsref="u4cdebea65f7df6b4.743b4102.13cbac3027d.3e92" dpsresource="ALD9"><span class="xh" id="abuse_1__71">rehab</span></span></a><span class="sep">,</span> <a class="Ref" href="http://www.oxfordlearnersdictionaries.com/definition/english/withdrawal" title="withdrawal definition"><span class="xr-g" dpsref="u4cdebea65f7df6b4.743b4102.13cbac60ff3.7aa3" dpssubref="u4cdebea65f7df6b4.743b4102.13cbac60ff3.7ad2" dpsresource="ALD9" id="abuse_1__72"><span class="xh" id="abuse_1__73">withdrawal</span></span></a></span></span></span></span></span></li><li class="sn-g" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24d2" ox3000="y" id="abuse_1__74"><span class="num">2 </span><span class="sym_first">
+                                <a class="oxford3000" href="http://www.oxfordlearnersdictionaries.com/wordlist/english/oxford3000/"> </a></span><span class="gram-g" id="abuse_1__75"><span class="wrap">[</span><span class="gram" gram="u" id="abuse_1__76">uncountable</span><span class="sep">,</span> <span class="gram" id="abuse_1__77" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24d6" gram="pl">plural</span><span class="wrap">]</span></span> <span class="def" id="abuse_1__78" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24d7">unfair, cruel or violent treatment of somebody</span><span class="x-gs" id="abuse_1__79" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24d8"><span class="x-g" id="abuse_1__80"> <span class="x" id="abuse_1__81">child abuse</span></span><span class="x-g" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24db" id="abuse_1__82"> <span class="x" id="abuse_1__83">sexual abuse</span></span><span class="x-g" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24dd" id="abuse_1__84"> <span class="x" id="abuse_1__85">reported abuses by the secret police</span></span><span class="x-g" id="abuse_1__86" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24df"> <span class="rx-g" id="abuse_1__87" source="ald9" resource="recx"><span class="x" id="abuse_1__88">She suffered years of physical abuse.</span></span></span></span> <span class="xr-gs"><span class="prefix">See related entries:</span> <a class="Ref" href="http://www.oxfordlearnersdictionaries.com/topic/types_of_crime/abuse_1" title="Topic Types of crime"><span class="xr-g" resource="topicdict"><span class="xh">Types of crime</span></span></a></span></li><li class="sn-g" id="abuse_1__92" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24e1" ox3000="y"><span class="num">3 </span><span class="sym_first">
+                                <a class="oxford3000" href="http://www.oxfordlearnersdictionaries.com/wordlist/english/oxford3000/"> </a></span><span class="gram-g" id="abuse_1__93"><span class="wrap">[</span><span class="gram" id="abuse_1__94" gram="u">uncountable</span><span class="wrap">]</span></span> <span class="def" id="abuse_1__95" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24e5">rude and offensive remarks, usually made when somebody is very angry</span> <span class="xr-gs" id="abuse_1__96" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24e6"><span class="prefix">synonym</span> <a class="Ref" href="http://www.oxfordlearnersdictionaries.com/definition/english/insult_1" title="insult definition"><span class="xr-g" id="abuse_1__97"><span class="xh" id="abuse_1__98">insult</span></span></a></span><span class="x-gs" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24e9" id="abuse_1__99"><span class="x-g" id="abuse_1__100"> <span class="x" id="abuse_1__101">to <span class="cl"><strong>scream/hurl/shout abuse</strong></span></span></span><span class="x-g" id="abuse_1__103" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24ed"> <span class="x" id="abuse_1__104">a <span class="cl"><strong>stream/torrent of abuse</strong></span></span></span><span class="x-g" id="abuse_1__106" dpsid="u4cdebea65f7df6b4.743b4102.13cbab9c8f4.24f0"> <span class="rx-g" id="abuse_1__107" resource="recx" source="ald9"><span class="x" id="abuse_1__108">The man burst into a torrent of foul-mouthed racist abuse.</span></span></span></span> <span class="xr-gs"><span class="prefix">See related entries:</span> <a class="Ref" href="http://www.oxfordlearnersdictionaries.com/topic/anger/abuse_2" title="Topic Anger"><span class="xr-g" resource="topicdict"><span class="xh">Anger</span></span></a></span></li></span></span><span class="res-g"><span class="collapse" title="Word Origin"><span class="unbox" id="abuse_1__112" unbox="word_origin"> <span class="heading">Word Origin</span><span class="body" id="abuse_1__113"> <span class="def" id="abuse_1__114"><span class="lang" id="abuse_1__115">late Middle English</span></span>: via <span class="lang" id="abuse_1__116">Old French</span> from <span class="lang" id="abuse_1__117">Latin</span> <span class="ff" id="abuse_1__118">abus-</span> <tr class="tr" id="abuse_1__119">‘misused’</tr>, from the verb <span class="ff" id="abuse_1__120">abuti</span>, from <span class="ff" id="abuse_1__121">ab-</span> <tr class="tr" id="abuse_1__122">‘away’</tr> (i.e. <tr class="tr" id="abuse_1__123">‘wrongly’</tr>) + <span class="ff" id="abuse_1__124">uti</span> <tr class="tr" id="abuse_1__125">‘to use’</tr>.</span></span></span><span class="collapse" title="Extra examples"><span class="unbox" unbox="Extra examples"><span class="heading">Extra examples</span><span class="body"><span class="x-gs" id="abuse_1__126"><span class="x-g" id="abuse_1__127"> <span class="x" id="abuse_1__128">Calling someone stupid is definitely a term of abuse.</span></span><span class="x-g" id="abuse_1__129" dpsid="u4cdebea65f7df6b4.-4777033c.144219e15ed.1bf"> <span class="x" id="abuse_1__130">He was subjected to a torrent of abuse.</span></span><span class="x-g" dpsid="u4cdebea65f7df6b4.-4777033c.144219e15ed.1c1" id="abuse_1__131"> <span class="x" id="abuse_1__132">She was subjected to regular sexual abuse.</span></span><span class="x-g" id="abuse_1__133" dpsid="u4cdebea65f7df6b4.-4777033c.144219e15ed.1c3"> <span class="x" id="abuse_1__134">The child had taken a lot of emotional abuse.</span></span><span class="x-g" id="abuse_1__135" dpsid="u4cdebea65f7df6b4.-4777033c.144219e15ed.1c5"> <span class="x" id="abuse_1__136">The legal system is open to abuse.</span></span><span class="x-g" dpsid="u4cdebea65f7df6b4.-4777033c.144219e15ed.1c7" id="abuse_1__137"> <span class="x" id="abuse_1__138">The team who lost became a target of abuse for angry fans.</span></span><span class="x-g" dpsid="u4cdebea65f7df6b4.-4777033c.144219e15ed.1c9" id="abuse_1__139"> <span class="x" id="abuse_1__140">They had to endure continual racial abuse.</span></span><span class="x-g" dpsid="u4cdebea65f7df6b4.-4777033c.144219e15ed.1cb" id="abuse_1__141"> <span class="x" id="abuse_1__142">abuse of prisoners</span></span><span class="x-g" dpsid="u4cdebea65f7df6b4.-4777033c.144219e15ed.1cd" id="abuse_1__143"> <span class="x" id="abuse_1__144">allegations of child abuse</span></span><span class="x-g" id="abuse_1__145" dpsid="u4cdebea65f7df6b4.-4777033c.144219e15ed.1cf"> <span class="x" id="abuse_1__146">allegations of human rights abuses</span></span><span class="x-g" dpsid="u4cdebea65f7df6b4.-4777033c.144219e15ed.1d1" id="abuse_1__147"> <span class="x" id="abuse_1__148">six cases of suspected child abuse</span></span><span class="x-g" dpsid="u4cdebea65f7df6b4.-4777033c.144219e15ed.1d3" id="abuse_1__149"> <span class="x" id="abuse_1__150">He was arrested on charges of corruption and abuse of power.</span></span><span class="x-g" id="abuse_1__151" dpsid="u4cdebea65f7df6b4.-4777033c.144219e15ed.1d5"> <span class="x" id="abuse_1__152">The system of paying cash bonuses is open to abuse.</span></span><span class="x-g" id="abuse_1__153" dpsid="u4cdebea65f7df6b4.-4777033c.144219e15ed.1d7"> <span class="x" id="abuse_1__154">a stream/​torrent of abuse</span></span><span class="x-g" dpsid="u4cdebea65f7df6b4.-4777033c.144219e15ed.1d9" id="abuse_1__155"> <span class="x" id="abuse_1__156">alcohol/​drug/​solvent abuse</span></span><span class="x-g" dpsid="u4cdebea65f7df6b4.-4777033c.144219e15ed.1db" id="abuse_1__157"> <span class="x" id="abuse_1__158">child/​sexual abuse</span></span><span class="x-g" dpsid="u4cdebea65f7df6b4.-4777033c.144219e15ed.1dd" id="abuse_1__159"> <span class="x" id="abuse_1__160">to scream/​hurl/​shout abuse</span></span></span></span></span></span></span></ol><div class="pron-link">Check pronunciation: <a href="http://www.oxfordlearnersdictionaries.com/pronunciation/english/abuse_1">abuse</a></div></div>
+</div>
+        <div class="entry-in-other-dict responsive_row">
+        See the Oxford Advanced American Dictionary entry: <a href=http://www.oxfordlearnersdictionaries.com/definition/american_english/abuse_1>abuse</a>
+    </div>
+    <div class="responsive_row responsive_display_on_smartphone">
+    <div class="responsive_entry_center_right">    <div class="social-wrap">
+        <span id="plusone-box"><g:plusone size="normal" href="http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse" count="false"></g:plusone></span>
+        <a href="http://www.facebook.com/sharer.php?u=http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse&t=abuse_1 noun - Definition, pictures, pronunciation and usage notes | Oxford Advanced Learner&apos;s Dictionary at OxfordLearnersDictionaries.com" target="_blank" class="facebook-btn" alt="share this entry on Facebook" title="share this entry on Facebook" onclick="_gaq.push(['_trackEvent', 'share_this_entry', 'facebook', 'http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse', null, true]);"></a>
+        <a href="http://twitter.com/home?status=Add+This:+http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse" target="_blank" class="twitter-btn" alt="tweet this entry" title="tweet this entry" onclick="_gaq.push(['_trackEvent', 'share_this_entry', 'twitter', 'http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse', null, true]);"></a>
+        <a href="http://www.stumbleupon.com/submit?url=http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse" target="_blank" class="stumbleupon-btn" alt="share this entry on StumbleUpon" title="share this entry on StumbleUpon" onclick="_gaq.push(['_trackEvent', 'share_this_entry', 'stumbleupon', 'http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse', null, true]);"></a>
+        <a href="http://www.diigo.com/post?url=http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse" target="_blank" class="diigo-btn" alt="share this entry on Diigo" title="share this entry on Diigo" onclick="_gaq.push(['_trackEvent', 'share_this_entry', 'diigo', 'http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse', null, true]);"></a>
+        <a href="mailto:?subject=abuse_1 noun - Definition, pictures, pronunciation and usage notes | Oxford Advanced Learner&apos;s Dictionary at OxfordLearnersDictionaries.com&body=http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse" alt="email this entry" title="email this entry" class="email-btn"></a>
+    </div>
+</div>
+</div>
+
+                            </div>
+
+                            <div class="responsive_hide_on_smartphone responsive_center" id="btmOthers">     
+        <div id='ad_btmslot_a' class='am-default'>
+                    <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('ad_btmslot_a'); });
+            </script>
+                    </div>
+    </div>
+                        </div>
+                    </div>
+                    <div id="rightcolumn" class="responsive_entry_center_right">
+                        
+<div class="responsive_row">
+<div class="premium-box premium_english" id="otherLinksBox">
+    <script type="text/javascript">
+        var otherLinksFold = (document.cookie.indexOf("otherLinksFold") != -1);
+        if(otherLinksFold) {
+            var element = document.getElementById("otherLinksBox");
+            element.className += ' data-fold';
+        }
+    </script>
+    <div class="premium-title">
+        <i class="premium-box-toggle icon"></i>
+        Other Links
+    </div>
+                <ul class="otherLinks">
+                <li><a href="http://www.oxfordlearnersdictionaries.com/about/get-premium/iwriter">iWriter</a><i class="locked" ></i></li> 
+                <li><a href="http://www.oxfordlearnersdictionaries.com/about/get-premium/ispeaker">iSpeaker</a><i class="locked" ></i></li> 
+                <li><a href="http://www.oxfordlearnersdictionaries.com/mywordlist/">My Wordlists</a><i class="locked" ></i></li> 
+                <li><a href="http://www.oxfordlearnersdictionaries.com/about/get-premium/resources">Resources</a><i class="locked" ></i></li> 
+                <li><a href="http://www.oxfordlearnersdictionaries.com/wordlist/">Wordlists</a></li> 
+                <li><a href="http://www.oxfordlearnersdictionaries.com/wordlist/english/oxford3000/">Oxford 3000</a></li> 
+                <li><a href="http://www.oxfordlearnersdictionaries.com/about/english/pronunciation_english">Pronunciation</a></li> 
+                <li><a href="http://www.oxfordlearnersdictionaries.com/topic/">Topics</a></li> 
+            </ul>
+    </div></div>
+    	<div id="relatedentries" class="responsive_row">
+                    <h4 class="no-rule">Other results</h4>
+                <dl class="accordion ui-grad">
+            <dt>All matches</dt>
+            <dd>
+        	    <ul class="list-col">
+	    		    	                 	    			    			 	    		                    <li >
+    	       	    	<a href="http://www.oxfordlearnersdictionaries.com/definition/english/abuse_2" title="abuse verb definition"><span class='arl1'>abuse <pos>verb</pos></span></a>
+    	    	    </li>
+	    	                 	    			    			 	    		                    <li >
+    	       	    	<a href="http://www.oxfordlearnersdictionaries.com/definition/english/self-abuse" title="self-abuse noun definition"><span class='arl6'>self-abuse <pos>noun</pos></span></a>
+    	    	    </li>
+	    	                 	    			    			 	    		                    <li >
+    	       	    	<a href="http://www.oxfordlearnersdictionaries.com/definition/english/child-abuse" title="child abuse noun definition"><span class='arl6'>child abuse <pos>noun</pos></span></a>
+    	    	    </li>
+	    	                 	    			    			 	    		                    <li >
+    	       	    	<a href="http://www.oxfordlearnersdictionaries.com/definition/english/elder-abuse" title="elder abuse noun definition"><span class='arl6'>elder abuse <pos>noun</pos></span></a>
+    	    	    </li>
+	    	                 	    			    			 	    		                    <li >
+    	       	    	<a href="http://www.oxfordlearnersdictionaries.com/definition/english/racket-abuse" title="racket abuse noun definition"><span class='arl6'>racket abuse <pos>noun</pos></span></a>
+    	    	    </li>
+	    	                 	    			    			 	    		                    <li >
+    	       	    	<a href="http://www.oxfordlearnersdictionaries.com/definition/english/racquet-abuse" title="racquet abuse definition"><span class='arl6'>racquet abuse</span></a>
+    	    	    </li>
+	    	                 	    			    			 	    		                    <li >
+    	       	    	<a href="http://www.oxfordlearnersdictionaries.com/definition/english/solvent-abuse" title="solvent abuse noun definition"><span class='arl6'>solvent abuse <pos>noun</pos></span></a>
+    	    	    </li>
+	    	                 	    			    			 	    		                    <li >
+    	       	    	<a href="http://www.oxfordlearnersdictionaries.com/definition/english/substance-abuse" title="substance abuse definition"><span class='arl6'>substance abuse</span></a>
+    	    	    </li>
+	    	    	       </ul>
+                        </dd>
+                                </dl>
+    </div>
+                          
+            <div class='responsive_center_on_smartphone'>
+        <div id='ad_houseslot1_a' class='am-default'>
+                    <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('ad_houseslot1_a'); });
+            </script>
+                    </div>
+    </div>             <div class="responsive_row nearby">
+        <h4>Nearby words</h4>
+        <ul class="list-col">
+                    <li>
+                            <a  href="http://www.oxfordlearnersdictionaries.com/definition/english/abundant" title="Definition of abundant adjective in English"><DATA class="hwd">abundant <pos>adjective</pos></DATA></a>
+                        </li>
+                    <li>
+                            <a  href="http://www.oxfordlearnersdictionaries.com/definition/english/abundantly" title="Definition of abundantly adverb in English"><DATA class="hwd">abundantly <pos>adverb</pos></DATA></a>
+                        </li>
+                    <li>
+            <span> 
+                            <a class='selected' href="http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1" title="Definition of abuse noun in English"><DATA class="hwd">abuse <pos>noun</pos></DATA></a>
+            </span>             </li>
+                    <li>
+                            <a  href="http://www.oxfordlearnersdictionaries.com/definition/english/abuse_2" title="Definition of abuse verb in English"><DATA class="hwd">abuse <pos>verb</pos></DATA></a>
+                        </li>
+                    <li>
+                            <a  href="http://www.oxfordlearnersdictionaries.com/definition/english/abuser" title="Definition of abuser noun in English"><DATA class="hwd">abuser <pos>noun</pos></DATA></a>
+                        </li>
+                </ul>
+    </div>
+    
+            
+	<div class="responsive_row topic">
+    <h4>Explore our topics</h4>
+	    <ul class='list-col'>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/animal_homes">Animals</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/attractiveness">Body and appearance</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/business_deals">Business</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/accessories">Clothes and fashion</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/committing_crime">Crime and law</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/art_equipment">Culture</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/access_to_education">Education</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/death">Family and life stages</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/in_the_kitchen">Food and drink</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/diet">Health</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/architectural_features">Houses and buildings</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/language_skills">Language</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/american_football">Leisure</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/animal_farming">Nature</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/anger">Personality and emotions</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/elections">Religion and politics</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/cost_and_payment">Retail</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/devices">Science</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/helping_others">Social issues</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/computer_hardware">Technology</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/celebrity_news">The media</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/aircraft">Travel and tourism</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/protest">War and conflict</a>
+	        	        </li>
+	    
+	        <li>
+	        	            <a href="http://www.oxfordlearnersdictionaries.com/topic/describing_jobs">Work</a>
+	        	        </li>
+	    	    </ul>
+	</div>
+    
+
+
+
+    
+
+
+
+
+
+<div class="responsive_display_on_smartphone responsive_center_on_smartphone" id="btmSmartphone">     
+        <div id='ad_btmslot_b' class='am-default'>
+                    <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('ad_btmslot_b'); });
+            </script>
+                    </div>
+    </div>                    </div>
+                </div>
+                
+                        </div>
+                        
+        </div>
+    </div>
+    <div id="ox-footer" class="responsive_row oup-footer">
+<div class="responsive_container">
+
+    <div class="responsive_footer_top">
+        <div class="responsive_center_on_smartphone">
+            <div class="slt-logo"><img src="http://www.oxfordlearnersdictionaries.com/external/images/footer/logo-slt.png" title="Shaping Learning Together" alt="Shaping Learning Together"/></div>
+            <div class="btn icon-left social-facebook"><a href="https://www.facebook.com/oupeltglobal">Find us on Facebook</a></div>
+            <div class="btn icon-left social-twitter"><a href="https://twitter.com/OUPELTGlobal">Follow us on Twitter</a></div>
+            <ul class='links'>
+                <li><a href="https://elt.oup.com/" onclick="return ! window.open(this.href);">OUP English Language Teaching</a></li>
+                <li><a href="https://www.oxfordlearnersbookshelf.com/home/homePage.html" onclick="return ! window.open(this.href);">Oxford Learner&apos;s Bookshelf</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="responsive_footer_bottom">
+        <div class="responsive_center_on_smartphone">
+            <a href="http://global.oup.com/" onclick="return ! window.open(this.href);" class="oup-logo" title="Oxford University Press"><img src="http://www.oxfordlearnersdictionaries.com/external/images/footer/logo-oup.png" title="Oxford University Press"/></a>
+            <div class="responsive_footer_bottom_wrap">
+                <ul class='links'>
+                    <li><a href="http://www.oxfordlearnersdictionaries.com/search_widget_info">Search Box</a></li>
+                    <li><a href="http://www.oxfordlearnersdictionaries.com/browse/">Browse Dictionaries & Grammar</a></li>
+                    <li><a href="http://www.oxfordlearnersdictionaries.com/contact-us">Contact Us</a></li>
+                    <li><a href="http://www.oxfordlearnersdictionaries.com/legal-notice">Legal Notice</a></li>
+                    <li><a href="http://www.oxfordlearnersdictionaries.com/privacy">Privacy Policy</a></li>
+                    <li><a href="http://global.oup.com/cookiepolicy">Cookie Policy</a></li>
+                    <li><a href="http://www.oxfordlearnersdictionaries.com/terms-and-conditions">Terms & Conditions</a></li>
+					<li><a href="http://www.oxfordlearnersdictionaries.com/system-requirements">System Requirements</a></li>
+                    <li><a href="https://elt.oup.com/accessibility" onclick="return ! window.open(this.href);">Accessibility</a></li>
+                </ul>
+                <p class="copyright">&copy; 2017 Oxford University Press</p>
+            </div>
+            <div class="versionSelector">
+                <select name="lang" id="headerVersion" title="Select language">
+                                                                                                                                                                        <option  
+                             selected="selected"                             name="uk"
+                            value="http://www.oxfordlearnersdictionaries.com/definition/english/abuse_1?q=abuse">English (UK)</option>
+                                                                                                                                                                                                <option  
+                                                        name="us"
+                            value="http://www.oxfordlearnersdictionaries.com/us/definition/english/abuse_1?q=abuse">English (US)</option>
+                                                            </select>
+            </div>
+        </div>
+    </div>
+
+</div>
+</div>
+
+
+
+    <script language="JavaScript" type="text/javascript" src="http://www.oxfordlearnersdictionaries.com/common.js?version=1.6.5"></script>
+    <script language="javascript" type="text/javascript" src="http://www.oxfordlearnersdictionaries.com/external/scripts/doubleclick.js?version=1.6.5"></script>
+
+            <script language="JavaScript" type="text/javascript" src="http://www.oxfordlearnersdictionaries.com/external/scripts/oxford.js?version=1.6.5"></script>
+            <script language="JavaScript" type="text/javascript" src="http://www.oxfordlearnersdictionaries.com/external/scripts/entry.js?version=1.6.5"></script>
+            <script language="JavaScript" type="text/javascript" src="http://www.oxfordlearnersdictionaries.com/external/scripts/jquery.lightbox-0.5.min.js?version=1.6.5"></script>
+        <script language="javascript" type="text/javascript">
+
+        $(document).ready(function() { setupDoubleClick('http://www.oxfordlearnersdictionaries.com/', 'english', false, 'main-container', null, null, null); });
+        $('img.over').each(function(){
+            var t=$(this);
+            var src1= t.attr('src'); // initial src
+            var newSrc = src1.substring(0, src1.lastIndexOf('.')); // let's get file name without extension
+            t.hover(function(){
+                $(this).attr('src', newSrc+ '-over.' + /[^.]+$/.exec(src1)); //last part is for extension
+            }, function(){
+                $(this).attr('src', newSrc + '.' + /[^.]+$/.exec(src1)); //removing '-over' from the name
+            });
+        });
+    </script>
+    <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+    <script language="javascript" type="text/javascript" src="http://www.oxfordlearnersdictionaries.com/external/scripts/responsive.js?version=1.6.5"></script>
+    <script type='text/javascript'>
+        $(document).ready(function() {
+            for(var i = 0; i<arrayFn.length;i++){
+                arrayFn[i].call();
+            }
+        });
+    </script>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-13175707-1',
+     {
+        'siteSpeedSampleRate': 10
+     });
+  ga('send', 'pageview');
+</script>
+
+        <script type="text/javascript">_qoptions={ qacct:"p-cfSla1Cke_iBQ" };</script>
+    <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+    <noscript><img src="http://pixel.quantserve.com/pixel/p-cfSla1Cke_iBQ.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></noscript>
+
+</body>
+</html>
